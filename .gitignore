@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+environment/
+.environment/
+.venv/
+venv/
+env/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+~$*
+.~*
+data/raw/
+models/
+*.safetensors
+*.ckpt
